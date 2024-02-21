@@ -1,0 +1,16 @@
+1 =>  terraform init
+2 =>  terraform plan
+3 =>  terraform apply
+4 =>  terraform destroy 
+5 =>  terraform fmt
+6 =>  terraform apply --auto-approve
+7 =>  terraform destroy --auto-approve
+8 =>  terraform validate
+9 =>  terraform workspace list                            (to check workspace)
+10 => terraform workspace new "name"                      (to create new workspace)
+11 => terraform workspace select "workspace name"         (to switch the workspace)
+12 => terraform workspace delete "workspace name"         (to delete the workspace)
+13 => terraform workspace show                            (to show the current workspace)
+14 => terraform workspace -h                            (to see all the commands in  workspace use)
+
+15 => terraform plan -var="repo"="github-repo" -out="bilu.tf"  (use in github)

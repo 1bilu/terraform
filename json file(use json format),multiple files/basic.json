@@ -1,0 +1,25 @@
+{
+    "data": [
+        "bilu7792841118",
+        "mybukybilu",   
+        "bilu77928411"
+         
+    ],
+    "map":{
+        "reg1": "ap-southwest-1",
+        "reg2": "ap-south-1",
+        "reg3": "eu-west-3"
+    },
+
+    "name" : [
+        "vicky",
+        "bilal",
+        "bilu"
+    ],
+
+    "team": [
+        "dev",
+        "deploy",
+        "testing"
+    ]
+}
